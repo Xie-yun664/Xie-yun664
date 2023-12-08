@@ -1,4 +1,4 @@
-### Hi there 👋
+###   Welcome To About Me
 
 <!--
 **Xie-yun664/Xie-yun664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+    Hello nama saya xieyun 
+ -saya seorang web developer
+ -saya seorang freelancer
+ -saya seorang game developer
+ -saya seorang desainer
+ 
+ 

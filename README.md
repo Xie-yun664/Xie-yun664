@@ -1,53 +1,20 @@
-###   Welcome To About Me
+<h1 align="center">Hai 👋, saya xieyun</h1>
+<h3 align="center">Seorang pengembang frontend yang bersemangat dari Indonesia</h3>
 
-<!--
-**Xie-yun664/Xie-yun664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src=" https://komarev.com/ghpvc/?username=xie-yun664&label=Profile%20views&color=0e75b6&style=flat" alt="xie-yun664" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href= "https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xie-yun664" alt="xie -yun664" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Terhubung dengan saya:</h3>
+<p align="left">
+<a href="https://linkedin.com/ di/xie-yun664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ Social/linked-in-alt.svg" alt="xie-yun664" height="30" width="40" /></a>
+</p>
 
-   ### Hello nama saya xieyun 
-   
-Saya berumur **23 th**, Saya sedang belajar di pondok pesantren al-ikhlas di kp.bojongkone desa caringin kecamatan cijati.
+<h3 align="left">Bahasa dan Alat:< /h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" lebar="40" tinggi="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn .worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" lebar ="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https:/ /www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https:/ /www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original- wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width=" 40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw .githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https ://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src ="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="tukang pos" width="40" height="40"/> </a> <a href="https: //tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width= "40" height="40"/> </a> </p>
 
-say adalah seorang **santri**\
-'apa itu santri' : ?\
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs ?username=xie-yun664&show_icons=true&locale=en&layout=compact" alt="xie-yun664" /></p>
 
-Dalam bahasa inggris sun berarti matahari sedangkan tree berarti tiga, jadi *santri* berarti tiga matahari
+svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src ="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="tukang pos" width="40" height="40"/> </a> <a href="https: //tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width= "40" height="40"/> </a> </p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?nama pengguna =xie-yun664&show_icons=true&locale=en" alt="xie-yun664" /></p>
 
-Artinya *santri* adalah mereka yang menyinari orang-orang dengan cahaya kebenaran yang di bawa oleh para nabi dan rosul 
-
-Tuhanku = Allah
-Nabiku = Muhammad
-Imamku = Al-Qur'an
-Kiblatku = Ka'bah
-Saudaraku = Orang-Orang yang beriman.
-
-Kalau codding di computer\ menggunakan ** -`HTML`**\
-            ** -`CSS`**\
-            ** -`JS`**\
-Maka codding di hati menggunakan Al-Qur'an
-
-kata-kata yang paling ku sukai :\
-`Aku ber do'a Agar dengan dinginnya baja dari pedangmu kou bisa menebas kegelapan malam untuk melihat indahnya siang hari`
-
-
- - saya seorang web developer
- - saya seorang freelancer
- - saya seorang game developer
- - saya seorang desainer
- 
-#### Saat ini saya sedang belajar Pemerograman menggunakan **PHP**
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xie-yun664&" alt="xie-yun664" /></p>

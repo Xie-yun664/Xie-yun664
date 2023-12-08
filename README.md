@@ -19,9 +19,10 @@ Here are some ideas to get you started:
    
 Saya berumur **23 th**, Saya sedang belajar di pondok pesantren al-ikhlas di kp.bojongkone desa caringin kecamatan cijati.
 
-say adalah seorang **santri** 
-'apa itu santri' : ? 
-Dalam bahasa inggris sun berarti matahari sedangkan tree berarti tiga, jadi *santri* berarti tiga matahari 
+say adalah seorang **santri**\
+'apa itu santri' : ?\
+
+Dalam bahasa inggris sun berarti matahari sedangkan tree berarti tiga, jadi *santri* berarti tiga matahari
 
 Artinya *santri* adalah mereka yang menyinari orang-orang dengan cahaya kebenaran yang di bawa oleh para nabi dan rosul 
 
@@ -31,12 +32,12 @@ Imamku = Al-Qur'an
 Kiblatku = Ka'bah
 Saudaraku = Orang-Orang yang beriman.
 
-Kalau codding di computer menggunakan ** -`HTML`**
-            ** -`CSS`**
-            ** -`JS`**
+Kalau codding di computer\ menggunakan ** -`HTML`**\
+            ** -`CSS`**\
+            ** -`JS`**\
 Maka codding di hati menggunakan Al-Qur'an
 
-kata-kata yang paling ku sukai :
+kata-kata yang paling ku sukai :\
 `Aku ber do'a Agar dengan dinginnya baja dari pedangmu kou bisa menebas kegelapan malam untuk melihat indahnya siang hari`
 
 

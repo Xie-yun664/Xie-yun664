@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
     Hello nama saya xieyun 
- -saya seorang web developer
- -saya seorang freelancer
- -saya seorang game developer
- -saya seorang desainer
+ - saya seorang web developer
+ - saya seorang freelancer
+ - saya seorang game developer
+ - saya seorang desainer
  
  
